@@ -1,5 +1,5 @@
 # profitability-forecasting
-bank profitability forecasting ML model training and prediction
+bank profitability forecasting model training and prediction
 
 A model trained on Data from previous customers on their that holds their profitability and loss for the bank.
 
